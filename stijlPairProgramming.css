@@ -1,0 +1,34 @@
+body {
+   margin: 0;
+   font-family: sans-serif;
+}
+
+header {
+   background: aliceblue;
+}
+
+header input {
+   height: 2em;
+   line-height: 2em;
+   padding: 1em;
+}
+
+main {
+   color: LightSeaGreen;
+}
+
+section {
+   background: aliceblue;
+}
+
+section img {
+   max-width: 100%;
+}
+
+#deco {
+   display: none;   /* alleen bij grotere viewports wordt deze getoond */
+}
+
+#validatie {
+   text-align: right;
+}
